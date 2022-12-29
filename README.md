@@ -2,6 +2,8 @@
 
 ### Hey, I am Nidhi Gupta. This is my Data Analytics Portfolio 
 
+<Br></br>
+
 
 
 ## [PROJECT 1 : Sales Data analysis using Excel](https://github.com/nidhigupta13/sales-project-using-excel)
