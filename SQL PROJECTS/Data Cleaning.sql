@@ -1,0 +1,48 @@
+#DISPLAY COMPLETE TABLE
+SELECT *
+FROM   data_cleaning_using_mysql;
+  
+#DISPLAY ALL THE COLUMN NAMES WITH DATA TYPE 
+SELECT  CONCAT(column_name, '=', data_type) AS 'Column_Name and Data_Type'
+FROM    information_schema.columns
+WHERE   table_schema = 'project' AND table_name = 'data_cleaning_using_mysql';
+     
+#DISPLAY AND DELETE ALL THE NULL VALUES IN THE TABLE     
+SELECT     *
+FROM       data_cleaning_using_mysql
+WHERE     music = '' OR music = 'N/A';
+
+DELETE FROM data_cleaning_using_mysql 
+WHERE      music = '' OR music = 'N/A';
+
+#COUNT ALL THE DUPLICATE VALUES IN A PARTICULAR COLUMN
+SELECT theme, COUNT(theme)
+FROM data_cleaning_using_mysql
+GROUP BY theme
+HAVING COUNT(*) >= 1
+
+SELECT month, COUNT(month)
+FROM data_cleaning_using_mysql
+GROUP BY month
+HAVING COUNT(*) >= 1
+
+SELECT `trend type`, COUNT('Trend Type')
+FROM data_cleaning_using_mysql
+GROUP BY `trend type`
+HAVING COUNT(*) >= 1
+
+SELECT part_of_song, COUNT('Part Of Song')
+FROM data_cleaning_using_mysql
+GROUP BY part_of_song
+HAVING COUNT(*) >= 1
+
+SELECT   `video style`, COUNT('VIDEO STYLE')
+FROM      data_cleaning_using_mysql
+GROUP BY `video style`
+HAVING COUNT(*) >= 1
+
+
+
+
+     
+	
