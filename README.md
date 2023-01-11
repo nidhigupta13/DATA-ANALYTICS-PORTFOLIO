@@ -4,7 +4,7 @@
 
 <Br></br>
 
-
+# EXCEL PROJECTS
 
 ## [PROJECT 1 : Sales Data analysis using Excel](https://github.com/nidhigupta13/sales-project-using-excel)
     This is an iteractive analysis report in Excel. It has details regarding different types products of different brands sales.
@@ -17,7 +17,16 @@
 
 
 
+# JUPYTER NOTEBOOK PROJECTS
 
+
+
+
+# SQL PROJECTS
+
+
+
+# POWER BI PROJECTS
 
 
 
