@@ -1,0 +1,39 @@
+select * from sales_data;
+
+# SHOW ALL THE COLUMNS NAME
+show columns from sales_data;
+
+# SHOW ALL THE DISTINCT VALUES OF COLUMN 'STATUS'
+select distinct `status` from sales_data;
+
+# SHOW AND DELETE ALL THE ROWS THAT HAVE NULL VALUE  
+select * from sales_data
+ where addressline2='' or state='';
+  delete from sales_data
+ where addressline2='' or state='';
+ 
+ # DISPLAY FOLLOWING RECORDS WHERE ORDER IS SHIPPED
+ select ordernumber,orderlinenumber,orderdate,`status`,productcode
+ from sales_data
+ where `status`='shipped';
+ 
+ 
+ # DISPLAY ALL THE DISTINCT YEARS IN WHICH ORDER IS PLACED
+ select * from sales_data;
+ select distinct year_id from sales_data;
+
+# SHOW THE MAXIMUM SALES FOR EACH YEAR
+ select max(sales),year_id as `max sales per year`
+ from sales_data
+ group by year_id;
+ 
+ 
+ # SHOW MAXIMUM QUANTITY OF ORDER WITH ORDER DATE FOR EACH CUSTOMER 
+ select max(quantityordered),customername,orderdate as `max order by each customer`
+ from sales_data
+ group by customername;
+ 
+ # SHOW MAXIMUM AND MINIMUM ORDER QUANTITY FOR EACH CITY, STATE AND COUNTRY WITH PRODUCT LINE AND ORDER DATE 
+ select max(quantityordered),orderdate,city,state,country,productline,min(quantityordered) as `max and min qty of order`
+ from sales_data
+ group by city,state,country;
