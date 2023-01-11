@@ -25,13 +25,13 @@
 
 ## [PROJECT 1 : Car price analysis](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/JUPYTER%20NOTEBOOK%20PROJECTS/car_price_jupyter_project.ipynb)
     * 
-    * HTML format [click here](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/JUPYTER%20NOTEBOOK%20PROJECTS/car_price_jupyter_project.html)
+    * [HTML format](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/JUPYTER%20NOTEBOOK%20PROJECTS/car_price_jupyter_project.html)
     
 ## [POJECT 2 : Shopping](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/JUPYTER%20NOTEBOOK%20PROJECTS/shopping%20data%20analysis.ipynb)
 
 ## [PROJECT 3 : Trending music on snapchat and instagram](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/JUPYTER%20NOTEBOOK%20PROJECTS/Trending%20Music%20on%20Instagram%20%26%20Snapchat.ipynb)
     *
-    * HTML file [click here](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/JUPYTER%20NOTEBOOK%20PROJECTS/Trending%20Music%20on%20Instagram%20%26%20Snapchat.html)
+    * [HTML file](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/JUPYTER%20NOTEBOOK%20PROJECTS/Trending%20Music%20on%20Instagram%20%26%20Snapchat.html)
     
 ## [PROJECT 4 : SuperStore data analysis](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/JUPYTER%20NOTEBOOK%20PROJECTS/superstore.ipynb)
 
@@ -40,11 +40,11 @@
 
 ## [PROJECT 1 : Data Cleaning](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/SQL%20PROJECTS/Data%20Cleaning.sql)
     *
-    * Queries [Here](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/SQL%20PROJECTS/Data%20Cleaning)
+    * [Queries](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/SQL%20PROJECTS/Data%20Cleaning)
     
 ## [PROJECT 2 : ](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/SQL%20PROJECTS/sql%20project%20-%202.sql)
     *
-    * Queries [Here](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/SQL%20PROJECTS/sql%20project%202)
+    * [Queries](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/SQL%20PROJECTS/sql%20project%202)
 
 # - POWER BI PROJECTS
 
