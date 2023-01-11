@@ -1,3 +1,9 @@
+/*  - Delete all rows with null values
+    - Count duplicate values in a particular column
+    - rename column
+    - show all the distinct values of a column */
+    
+
 #DISPLAY COMPLETE TABLE
 SELECT *
 FROM   data_cleaning_using_mysql;
