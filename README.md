@@ -18,7 +18,7 @@
     
  ## [PROJECT 3 : Macro function with advance filtering](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/EXCEL%20PROJECTS/excel%20-%20macro%20function%20-%20retrieve%20selected%20data.xlsm)
  
- 
+ <br>
 
 
 # - JUPYTER NOTEBOOK PROJECTS
@@ -35,6 +35,7 @@
     
 ## [PROJECT 4 : SuperStore data analysis](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/JUPYTER%20NOTEBOOK%20PROJECTS/superstore.ipynb)
 
+<br>
 
 # - SQL PROJECTS
 
@@ -46,6 +47,10 @@
     *
     * [Queries](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/SQL%20PROJECTS/sql%20project%202)
 
+
+<br>
+
+
 # - POWER BI PROJECTS
 
 
@@ -54,7 +59,7 @@
 
 
 
-
+<br>
 
 # - [ABOUT](https://github.com/nidhigupta13/nidhigupta13)
 
