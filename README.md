@@ -2,6 +2,8 @@
 
 ### Hey, I am Nidhi Gupta. This is my Data Analytics Portfolio 
 
+[click](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/EXCEL%20PROJECTS/excel%20-%20macro%20function%20-%20retrieve%20selected%20data.xlsm)
+
 <Br></br>
 
 # - EXCEL PROJECT
