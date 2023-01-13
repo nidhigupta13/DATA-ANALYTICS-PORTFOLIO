@@ -17,33 +17,38 @@
                                                  OVERVIEW 
    ![](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/Dashboard%20Images/1.png)
      
-     
+     <br>
      
  ## [PROJECT 2 : car_price_analysis ](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/EXCEL%20PROJECTS/Excel%20project%202-%20NidhiGupta13.xlsx)
- 
-                                                OVERVIEW
+      * Dataset is from kaggle
+      * Analyse the price of car based different specifications
+                                                           OVERVIEW
    ![](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/Dashboard%20Images/2.png)
+    
+    <br>
     
  ## [PROJECT 3 : Macro function with advance filtering](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/EXCEL%20PROJECTS/excel%20-%20macro%20function%20-%20retrieve%20selected%20data.xlsm)
  
- <br>
+  ![](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/Dashboard%20Images/Macro.png)
+ 
+ <br><br>
 
 
 # - JUPYTER NOTEBOOK PROJECTS
 
 ## [PROJECT 1 : Car price analysis](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/JUPYTER%20NOTEBOOK%20PROJECTS/car_price_jupyter_project.ipynb)
-   
-   [HTML format](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/JUPYTER%20NOTEBOOK%20PROJECTS/car_price_jupyter_project.html)
+   * Dataset is from kaggle
+   * HTML format  :point_right: [CLick](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/JUPYTER%20NOTEBOOK%20PROJECTS/car_price_jupyter_project.html)
     
 ## [POJECT 2 : Shopping](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/JUPYTER%20NOTEBOOK%20PROJECTS/shopping%20data%20analysis.ipynb)
 
 ## [PROJECT 3 : Trending music on snapchat and instagram](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/JUPYTER%20NOTEBOOK%20PROJECTS/Trending%20Music%20on%20Instagram%20%26%20Snapchat.ipynb)
-   
-   [HTML file](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/JUPYTER%20NOTEBOOK%20PROJECTS/Trending%20Music%20on%20Instagram%20%26%20Snapchat.html)
+  * Dataset is from kaggle 
+  * HTML format  :point_right: [Click](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/JUPYTER%20NOTEBOOK%20PROJECTS/Trending%20Music%20on%20Instagram%20%26%20Snapchat.html)
     
 ## [PROJECT 4 : SuperStore data analysis](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/JUPYTER%20NOTEBOOK%20PROJECTS/superstore.ipynb)
-
-<br>
+   * dataset is from kaggle
+<br><br>
 
 # - SQL PROJECTS
 
@@ -61,6 +66,8 @@
 
 # - POWER BI PROJECTS
 
+## PROJECT 1 :   
+  ![](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/Dashboard%20Images/Powerbi-1.png)
 
 
 
