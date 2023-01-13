@@ -3,6 +3,15 @@
 ### Hey, I am Nidhi Gupta. This is my Data Analytics Portfolio 
 
 
+## Table of contents
+- [EXCEL](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/edit/main/README.md#--excel-project)
+	
+- [JUPYTER](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/edit/main/README.md#--jupyter-notebook-projects)  
+	
+- [MYSQL](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/edit/main/README.md#--sql-projects)
+
+- [POWER BI](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/edit/main/README.md#--power-bi-projects)
+
 <Br></br>
 
 # - EXCEL PROJECT
