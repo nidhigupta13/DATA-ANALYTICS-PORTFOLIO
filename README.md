@@ -50,8 +50,13 @@
 
 # - POWER BI PROJECTS
 
-## PROJECT 1 :   
+## PROJECT 1 : [Project File](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/POWER%20BI/project%201.pbix)
+                                                       OVERVIEW
   ![](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/Dashboard%20Images/Powerbi-1.png)
+  
+## PROJECT 2 : [Project File](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/POWER%20BI/powerbi%20-%202%20(flipkart%20smart%20watch).pbix)
+                                                            OVERVIEW
+  ![](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/Dashboard%20Images/powerbi-%202%20flipkart%20smart%20watch.png)
   
   
   
