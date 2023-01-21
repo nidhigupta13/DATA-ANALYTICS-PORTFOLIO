@@ -14,17 +14,10 @@
 
 <Br></br>
 
-# - POWER BI PROJECTS
-
-## PROJECT 1 :   
-  ![](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/Dashboard%20Images/Powerbi-1.png)
 
 
 
 
-
-
-<br>
 
 # - EXCEL PROJECT
 
@@ -54,6 +47,17 @@
  
  <br><br>
 
+
+# - POWER BI PROJECTS
+
+## PROJECT 1 :   
+  ![](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/Dashboard%20Images/Powerbi-1.png)
+  
+  
+  
+
+
+<br><br>
 
 # - JUPYTER NOTEBOOK PROJECTS
 
