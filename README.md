@@ -21,3 +21,15 @@
     
 <br><br>
 
+## [MOST SUSCRIBED YOUTUBE CHANNEL DATA ANALYSIS](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/tree/main/Most%20Subscribed%20YouTube%20Channel)
+ The analysis shows the details of youtube channels which have highest number of subscribers respective of category, country, language , branded & non branded.
+ 
+   * The dataset is from Kaggle.
+   * Using MySQL, Channel highest number of subscribers for each factor has been retrieved. 
+   * [MySQL File](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/Most%20Subscribed%20YouTube%20Channel/Most%20Subscribed%20Youtube%20Channels.sql) 
+   * Exported all the CSV files from MySQL and imported them into Power BI for further visualization work.
+   * visualize all the imported files using power bi visualization tools,    
+                                                   
+                                                    DASHBOARD OVERVIEW
+![](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/Most%20Subscribed%20YouTube%20Channel/Dashboard.png)
+      
