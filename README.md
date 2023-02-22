@@ -6,7 +6,7 @@
   Analyse the review of customers about clothes they buy and which type and material of clothing they prefer most.
 
    * The Dataset is from kaggle.
-   * Tools Used :- PYTHON, PANDAS, MATPLOTLIB, WORD CLOUD, NUMPY  [JUPYTER PROJECT FILE](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/Customer%20Segmentation/Customer%20Segmentation.ipynb)
+   * Tools Used :- PYTHON, PANDAS, MATPLOTLIB, WORD CLOUD, NUMPY  [Jupyter Project File](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/Customer%20Segmentation/Customer%20Segmentation.ipynb)
    * This Dataset consists clothing ID, Name of clothing, Review of customer, Customer's age, clothing department, division and class name.
    
                                             
@@ -36,7 +36,7 @@
     
 ## [TOP AMERICA COLLEGES](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/tree/main/Top%20America%20Colleges)
    * This Dataset is from kaggle.
-   * Tools Used :- PANDAS, NUMPY, MATPLOTLIB, SEABORN [Jupyter File](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/Top%20America%20Colleges/Top%20America%20Colleges%20Data%20Analysis.ipynb)
+   * Tools Used :- PANDAS, NUMPY, MATPLOTLIB, SEABORN [Jupyter Project File](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/Top%20America%20Colleges/Top%20America%20Colleges%20Data%20Analysis.ipynb)
    * This Dataset consists details about different colleges of america like, college name, description, area it belongs to, student and teacher population, courses they offer, contact details
    
    
