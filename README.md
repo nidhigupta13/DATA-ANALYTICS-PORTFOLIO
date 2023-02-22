@@ -1,6 +1,14 @@
   # [DATA-ANALYTICS-PORTFOLIO](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO)                                   
                                             Hey, I am Nidhi Gupta. This is my Data Analytics Portfolio
-                                            
+ 
+ 
+## [CUSTOMER SEGMENTATION](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/tree/main/Customer%20Segmentation)
+  Analyse the review of customers about clothes they buy and which type and material of clothing they prefer most.
+
+   * The Dataset is from kaggle.
+   * Tools Used :- PYTHON, PANDAS, MATPLOTLIB, WORD CLOUD, NUMPY  [JUPYTER PROJECT FILE](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/blob/main/Customer%20Segmentation/Customer%20Segmentation.ipynb)
+   * This Dataset consists clothing ID, Name of clothing, Review of customer, Customer's age, clothing department, division and class name.
+   
                                             
 ## [MOST SUBSCRIBED YOUTUBE CHANNEL DATA ANALYSIS](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/tree/main/Most%20Subscribed%20YouTube%20Channel)
  The analysis shows the details of youtube channels which have highest number of subscribers respective of category, country, language , branded & non branded.
