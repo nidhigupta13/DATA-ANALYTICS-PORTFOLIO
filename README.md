@@ -1,8 +1,8 @@
-  # [DATA-ANALYTICS-PORTFOLIO](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO)                                   
+   # [DATA-ANALYTICS-PORTFOLIO](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO)                                   
                                             Hey, I am Nidhi Gupta. This is my Data Analytics Portfolio
  
  
-## [CUSTOMER SEGMENTATION](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/tree/main/Customer%20Segmentation)
+## [SENTIMENT ANALYSIS](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/tree/main/Customer%20Segmentation)
   Analyse the review of customers about clothes they buy and which type and material of clothing they prefer most.
 
    * The Dataset is from kaggle.
