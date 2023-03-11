@@ -3,7 +3,7 @@
  
  
  ## QUICK LINKS :
-   * [SQL Projects]()
+   * [SQL Projects](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/edit/main/README.md#sql-projects)
    
    * [POWER BI]() 
         * [Projects]()
@@ -11,7 +11,7 @@
         
    * [EXCEL Projects]()
    
-   * [PYTHON Projects]()
+   * [PYTHON Projects](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/edit/main/README.md#python-projects)
         
     
   
