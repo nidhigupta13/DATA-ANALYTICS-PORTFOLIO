@@ -2,17 +2,7 @@
    
  
  
- ## QUICK LINKS :
-   * [SQL Projects](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/edit/main/README.md#sql-projects)
-   
-   * [POWER BI]() 
-        * [Projects]()
-        * [Dashboards]()
-        
-   * [EXCEL Projects]()
-   
-   * [PYTHON Projects](https://github.com/nidhigupta13/DATA-ANALYTICS-PORTFOLIO/edit/main/README.md#python-projects)
-        
+  
     
   
    
